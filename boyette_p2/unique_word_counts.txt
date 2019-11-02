@@ -1,0 +1,10 @@
+duplicated is listed in the text file 1 time(s).
+here is listed in the text file 2 time(s).
+can is listed in the text file 1 time(s).
+be is listed in the text file 1 time(s).
+were is listed in the text file 1 time(s).
+words is listed in the text file 2 time(s).
+duplicate is listed in the text file 2 time(s).
+written is listed in the text file 1 time(s).
+What is listed in the text file 1 time(s).
+if is listed in the text file 1 time(s).
